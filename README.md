@@ -31,12 +31,24 @@ Conference, Symposium, Workshop တွေမှာ စကားပြောတ�
 <br />
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-CICLING2017.png" width="150"/>  
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-KMD-talk-Sept-2018.png" width="150"/>
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-Mdy-Aug-2018.png" alt="drYe-id.png" width="150"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-CICLING2017.png" alt="" width="150"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-KMD-talk-Sept-2018.png" alt="" width="150"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-Mdy-Aug-2018.png" alt="" width="150"/>
 </p>  
 <div align="center">
-  Fig. Filenames: Left: y-at-CICLING2017.png, Middle: ID-photo-for-talk.png, Right: y-at-Mdy-Aug-2018.png
+  Fig. Filenames: Left: y-at-CICLING2017.png, Middle: y-at-KMD-talk-Sept-2018.png, Right: y-at-Mdy-Aug-2018.png
 </div> 
 
 <br />
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-ONA2018.png", alt="", width="150"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-TobiiCopter-Hackathon-Team-Feb24-2017.png", alt="", width="150"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-Tokyo-11Mar2018.png" alt="" width="150"/>
+</p>  
+<div align="center">
+  Fig. Filenames: Left: y-at-ONA2018.png, Middle: y-at-TobiiCopter-Hackathon-Team-Feb24-2017.png, Right: y-at-Tokyo-11Mar2018.png
+</div> 
+
+<br />
+
