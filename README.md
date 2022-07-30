@@ -63,3 +63,13 @@ Conference, Symposium, Workshop တွေမှာ စကားပြောတ�
 
 <br />
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-atCICLING2017-2.png", alt="" width="150"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-with-Baxter-22Jan2017.png" alt="" width="150"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/hp-photo-edited.jpg" alt="" width="150"/>
+</p>  
+<div align="center">
+  Fig. Filenames: Left: y-atCICLING2017-2.png, Middle: y-with-Baxter-22Jan2017.png, Right: hp-photo-edited.jpg
+</div> 
+
+<br />
