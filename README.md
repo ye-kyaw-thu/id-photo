@@ -52,3 +52,14 @@ Conference, Symposium, Workshop တွေမှာ စကားပြောတ�
 
 <br />
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-UTYCC-May-28-2018.png", alt="" width="150"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-Wetlet-Sagaing-Aug-2018.png" alt="" width="150"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-Ygn-Sept-2018.png" alt="" width="150"/>
+</p>  
+<div align="center">
+  Fig. Filenames: Left: y-at-UTYCC-May-28-2018.png, Middle: y-at-Wetlet-Sagaing-Aug-2018.png, Right: y-at-Ygn-Sept-2018.png 
+</div> 
+
+<br />
+
