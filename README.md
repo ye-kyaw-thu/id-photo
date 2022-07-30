@@ -42,8 +42,8 @@ Conference, Symposium, Workshop တွေမှာ စကားပြောတ�
 <br />
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-ONA2018.png", alt="", width="80"/>  
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-TobiiCopter-Hackathon-Team-Feb24-2017.png", alt="", width="80"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-ONA2018.png", alt="", width="30"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-TobiiCopter-Hackathon-Team-Feb24-2017.png", alt="", width="30"/>
 <img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/y-at-Tokyo-11Mar2018.png" alt="" width="150"/>
 </p>  
 <div align="center">
