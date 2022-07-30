@@ -20,9 +20,9 @@ Conference, Symposium, Workshop တွေမှာ စကားပြောတ�
 ## ID Photo Info
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-4-KNLP.png" alt="ID-photo-4-KNLP.png" width="330"/>  
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-for-talk.png" alt="ID-photo-for-talk.png" width="330"/>
-<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/drYe-id.png" alt="drYe-id.png" width="330"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-4-KNLP.png" alt="ID-photo-4-KNLP.png" width="150"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-for-talk.png" alt="ID-photo-for-talk.png" width="150"/>
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/drYe-id.png" alt="drYe-id.png" width="150"/>
 </p>  
 <div align="center">
   Fig.7 Filenames: Left: ID-photo-4-KNLP.png, Middle: ID-photo-for-talk.png, Right: drYe-id.png
