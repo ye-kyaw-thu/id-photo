@@ -20,7 +20,7 @@ Conference, Symposium, Workshop တွေမှာ စကားပြောတ�
 ## ID Photo Info
 
 <p align="center">
-<img src="[https://github.com/ye-kyaw-thu/error-overflow/blob/master/fig/RL-exp/transformer/transformer_RL-30-70-bkmy.png](https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-4-KNLP.png)" alt="ID-photo-4-KNLP.png" width="330"/>  
+<img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-4-KNLP.png" alt="ID-photo-4-KNLP.png" width="330"/>  
 <img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/ID-photo-for-talk.png" alt="ID-photo-for-talk.png" width="330"/>
 <img src="https://github.com/ye-kyaw-thu/id-photo/blob/main/ID_photos/drYe-id.png" alt="drYe-id.png" width="330"/>
 </p>  
